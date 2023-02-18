@@ -1,4 +1,4 @@
-### Olá, Sou Olga Leticia Lopes ✌️
+### Olá, Sou Olga Leticia Lopes 🌺💖
 <p>  Estou em constante aprimoramento técnico, sempre disposta a novos Desafios.</p>
 <p> Atualmente estou estudando Desenvolvimento Back End </p>
 

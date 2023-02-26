@@ -17,6 +17,7 @@
 <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="center" alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="right" alt="fotinha" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938336532148912138/1079346412464119821/338224_1zyTsqxo.png">
 
 <div align="center">
 

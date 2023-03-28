@@ -4,7 +4,10 @@
 
 ### Contatos e Projetos
  <div style="display: inline_block"><br/>
-  <img align="right" alt="fotinha" height="150" style="border-radius:50px;" src="">
+
+ 
+  <img align="right" alt="leti-pic" height="150" style="border-radius:60px;" src="https://i.picasion.com/pic92/ba91e880217627348cf9fb9304d2d327.gif">
+  
  <a href="https://www.linkedin.com/in/olgaleticialopes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:leticiaolgalopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/olgaleticialopes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>

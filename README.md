@@ -1,4 +1,4 @@
-## Olá, Sou Olga Leticia Lopes 🌺💖
+## hey, i am Olga Leticia Lopes 🌺💖
 <p>  I am in constant technical improvement, always willing to face new challenges.</p>
 <p>  currently studying Back End Development </p>
 

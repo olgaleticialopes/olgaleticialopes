@@ -1,6 +1,11 @@
 ## hey, i am Olga Leticia Lopes 🌺💖
 <p>  I am in constant technical improvement, always willing to face new challenges.</p>
 <p>  currently studying Back End Development </p>
+<div>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olgaleticialopes&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgaleticialopes&layout=compact&langs_count=16&theme=jolly"/>
+</div>
 
 ### Contacts and Projects:
  <div style="display: inline_block"><br/>

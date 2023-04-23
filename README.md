@@ -1,4 +1,6 @@
-## hey, i am Olga Leticia Lopes 🌺💖
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=dd6388&center=false&vCenter=false&width=1000&lines=Hi%2C+my+name+is+Olga+Leticia+Lopes+♡+;I'm+18+years+old;I'm+software+developer;)](https://github.com/olgaleticialopes)
 <p>  I am in constant technical improvement, always willing to face new challenges.</p>
 <p>  currently studying Back End Development </p>
 <div>

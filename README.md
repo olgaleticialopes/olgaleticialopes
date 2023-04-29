@@ -34,6 +34,7 @@
 
 <div align="center">
   <p>Feito com amor e JavaScript.</p>
+  
   [![Spotify](https://spotify-hfremssl2-olgaleticialopes.vercel.app/api/spotify)](https://open.spotify.com/user/leiteiciasan)
 </div>
   

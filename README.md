@@ -11,7 +11,7 @@
 
 ### Contacts and Projects:
  <div style="display: inline_block"><br/>
-  <img align="right" alt="leti-pic" src="https://i.picasion.com/pic92/e32e736746e5a9865c48c7197e742da9.gif">
+  <img align="right" alt="leti-pic" height="180em" src="https://i.picasion.com/pic92/fac97b6b3bcb152d8eb3c8b4748ded58.gif">
  <a href="https://www.linkedin.com/in/olgaleticialopes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:leticiaolgalopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/olgaleticialopes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>

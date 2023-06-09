@@ -8,11 +8,14 @@
 <p>  currently studying FullStack Development </p>
   </div>
 
-
-<div align = "center" > 
-  <img width="44%" height="190px" src="https://github-readme-stats.vercel.app/api?username=olgaleticialopes&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img  width="40%" height="190px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgaleticialopes&layout=compact&langs_count=16&theme=jolly"/>
+<div align="center">
+<a href="https://github.com/olgaleticialopes">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgaleticialopes&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=olgaleticialopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+
+
 
   <div align ="center">
  <h2> 💖🌺 Contacts and Projects: 💖🌺 </h2>

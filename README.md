@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/23/b1/c3/23b1c381f67c76905246a58747fca84b.png" width="400" img align="right" />
+
 <!-- GO CODE -->
 ```python
 import coding
@@ -29,9 +31,9 @@ def life(self):
         hobbies = ['Ouvir musicas', 
         'Jogar league of legends e Fortnite']
         return hobbies
-        
+         
+         
 ```
-
 
 
 
@@ -53,7 +55,7 @@ def life(self):
 </div>
   
   
-
+<!-- 0xMeii - template phyton code -->
   
   
  

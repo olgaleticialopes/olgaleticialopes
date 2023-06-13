@@ -1,18 +1,36 @@
-<div align="center"> 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=dd6388&center=false&vCenter=false&width=1000&lines=♡ㅤㅤ+Hi%2C+my+name+is+Olga+Leticia+Lopes+ㅤ♡+;ㅤ♡+I'm+software+engineer+and+developer+ㅤ♡ㅤ;)](https://github.com/olgaleticialopes)
-    </div>
-  
-  <div align="center"> 
-<p>  I am in constant technical improvement, always willing to face new challenges.</p>
-<p>  currently studying FullStack Development </p>
-  </div>
+<!-- GO CODE -->
+```python
+import coding
 
-<div align="center">
-<a href="https://github.com/olgaleticialopes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olgaleticialopes&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=olgaleticialopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+class Attributes:
+    def __init__(self):
+        pass
+        
+def contact(self):
+        instagram = "leiteiciasan"
+        discord = "убийца#6666"
+        email   = "leticiaolgalopes@gmail.com"
+        return instagram, discord, email
+
+def life(self):
+        langs = ['Portugues', 'English']
+        birth_year = '27/03/2005'
+        return langs, birth_year
+
+ def coding_skills(self):
+        langs = {
+       'basic': ['java'],
+       'intermediate': ['javascript', 'html', 'css', 'C#', 'Flutter'],
+       'learning': ['c', 'c++', 'phyton']
+        }
+        return langs
+        
+ def hobbies(self):
+        hobbies = ['Ouvir musicas', 
+        'Jogar league of legends e Fortnite']
+        return hobbies
+        
+```
 
 
 

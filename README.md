@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/23/b1/c3/23b1c381f67c76905246a58747fca84b.png" width="300" img align="right" />
+<img src="https://i.ebayimg.com/images/g/keAAAOSw63diwZ4K/s-l1600.png" width="190" img align="right" />
 
 <!-- GO CODE -->
 ```python

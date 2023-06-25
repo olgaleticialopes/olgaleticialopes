@@ -38,17 +38,6 @@ def life(self):
 ```
 
 
-
-  <div align ="center">
- <h2> 💖🌺 Contacts and Projects: 💖🌺 </h2>
-  </div>
-  
-   <div align = "center" >
- <a href="https://www.linkedin.com/in/olgaleticialopes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="mailto:leticiaolgalopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/olgaleticialopes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-</div>
-
   
   
 <!-- 0xMeii - template phyton code -->

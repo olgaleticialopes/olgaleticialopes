@@ -1,7 +1,4 @@
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6f9c&height=120&section=header"/>
-
-
 <div align=center>
  
 # Hello dear! ❤️🌺
@@ -43,7 +40,7 @@ my name is Olga or Mymy, whichever you prefer :) <p>
 <a href="https://www.linkedin.com/in/olgaleticialopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  <a href="toxicmymy" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"</a>
   </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6f9c&height=120&section=footer"/>
+
 
 
   

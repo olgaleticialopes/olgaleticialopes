@@ -3,9 +3,7 @@
  
 # Hello dear! ❤️🌺
 
-my name is Olga or Mymy, whichever you prefer :) <p>
- I'm a student of software engineering and systems development
- and dedicating all my effort to the Front-end area and I'm really passionate about it.
+my name is Olga or Mymy, whichever you prefer :)
  
 </div>
 

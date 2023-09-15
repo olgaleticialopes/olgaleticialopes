@@ -5,7 +5,7 @@
     <span>Olga Leticia Lopes</span>
 </h1>
 
-<p align="justify">Back-end developer, studying Bachelor's degree in Software Engineering, studying systems development technician. My first contact with the dev area was when I was creating ways to have more coins in my favorite childhood games.
+<p align="justify">Back-end Java developer. 
 <br>
 Passionate about arts and technology, some of my hobbies are gaming, watching, reading and drawing.</p>
 

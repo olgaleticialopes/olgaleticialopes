@@ -1,6 +1,6 @@
 ```java
 public static void main(String[] args) {
-    out.print("Hello World! I'm Mymy");
+    system.out.print("Hello World! I'm Mymy");
 }
 ```
   <img align="right" alt="Developer vector" height="380" src="https://media.discordapp.net/attachments/1020872567738863716/1141443808207306802/Code_typing-bro_1.png?width=670&height=670">

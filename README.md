@@ -1,4 +1,8 @@
-
+```java
+public static void main(String[] args) {
+    out.print("Hello World! I'm Mymy");
+}
+```
   <img align="right" alt="Developer vector" height="380" src="https://media.discordapp.net/attachments/1020872567738863716/1141443808207306802/Code_typing-bro_1.png?width=670&height=670">
 <h1>
   <img align="center" alt="Logo" width="46px" src="https://th.bing.com/th/id/R.8487a1d0f7fbdc22b6eed57a80cc27e0?rik=XdRgkcUuibztLg&riu=http%3a%2f%2fcdn106.picsart.com%2f205450069000202.gif&ehk=xfIB2%2fnjoaOhJvX%2fy4ThAWrNBqynCAkjQJbZaIBF8N0%3d&risl=&pid=ImgRaw&r=0"></a>

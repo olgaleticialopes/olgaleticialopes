@@ -9,7 +9,7 @@ public static void main(String[] args) {
     <span>Olga Leticia Lopes</span>
 </h1>
 
-<p align="justify">Back-end Java developer. 
+<p align="justify">Back-end developer. Learning Java e CyberSecurity
 <br>
 Passionate about arts and technology, some of my hobbies are gaming, watching, reading and drawing.</p>
 
